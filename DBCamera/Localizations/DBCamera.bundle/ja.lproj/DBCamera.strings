@@ -1,0 +1,24 @@
+/* 
+  DBCamera.strings
+  DBCamera
+
+  Created by takagi on 11/02/14.
+  Copyright (c) 2015 iPublishing Co., Ltd. - Yukimune Takagi. All rights reserved.
+*/
+
+"button.use" = "使用する";
+"button.retake" = "撮り直し";
+
+"general.error.title" = "注意";
+"general.button.cancel" = "キャンセル";
+
+"cameraimage.nopolicy" = "お使いのカメラを使用するために権限を有効にしてください。 [設定] > [プライバシー] > [カメラ]であなたの権限を確認してください。";
+"cameraimage.noconnection" = "カメラに接続できませんでした。 [設定] > [プライバシー] > [カメラ]であなたの権限を確認してください。";
+
+"pickerimage.nopolicy" = "あなたのフォトライブラリを使用するために権限を有効にしてください。 [設定] > [プライバシー] > [カメラ]であなたの権限を確認してください。";
+"pickerimage.nophoto" = "あなたのライブラリには画像がありません。";
+
+"pagecontrol.text" = "%i / %i";
+
+"cropmode.title" = "アスペクト比";
+"cropmode.square" = "正方形";
